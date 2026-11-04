@@ -128,6 +128,7 @@ From a handful of family copies to a public release.
 - [Awesome Romance AI Writers](https://github.com/grades2018/awesome-romance-ai-writers) - AI writing tools for romance novelists.
 - [Awesome AI Fantasy Writing Tools](https://github.com/grades2018/awesome-ai-fantasy-writing-tools) - AI and writing tools for fantasy and speculative fiction.
 - [Awesome Worldbuilding Lore Tools](https://github.com/grades2018/awesome-worldbuilding-lore-tools) - Worldbuilding, lore, and setting continuity.
+- [Awesome Lead Magnet Ebooks](https://github.com/grades2018/awesome-lead-magnet-ebooks) - Drafting, designing, and delivering ebooks that grow an email list.
 
 ## Contributing
 
