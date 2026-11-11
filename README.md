@@ -106,6 +106,7 @@ From a handful of family copies to a public release.
 - [Blurb](https://www.blurb.com/) - Print service for photo-rich books and keepsake editions.
 - [BookBaby](https://www.bookbaby.com/) - Self-publishing service with printing, ebook distribution, and editing packages.
 - [Amazon KDP](https://kdp.amazon.com/) - Kindle and paperback self-publishing on Amazon.
+- [Draft2Digital](https://www.draft2digital.com/) - Free ebook and print distribution to Apple Books, Kobo, libraries, and other stores beyond Amazon.
 
 ## Covers and Titles
 
@@ -121,6 +122,7 @@ From a handful of family copies to a public release.
 
 ## Related Lists
 
+- [Awesome Lists for Writers and Self-Publishers](https://github.com/grades2018/awesome-lists-for-writers) - Hub of curated lists for writing, editing, publishing, and marketing books.
 - [Awesome AI Ghostwriting Tools](https://github.com/grades2018/awesome-ai-ghostwriting-tools) - Tools for ghostwriters turning client interviews into books.
 - [Awesome AI Novel Editors](https://github.com/grades2018/awesome-ai-novel-editors) - Manuscript rewrite, line editing, and critique for novels.
 - [Awesome KDP AI Tools](https://github.com/grades2018/awesome-kdp-ai-tools) - AI tools for Amazon KDP and self-publishing authors.
