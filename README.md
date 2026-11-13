@@ -28,6 +28,7 @@ Long-form tools that take your memories, notes, or an outline and help draft ful
 - [Squibler](https://www.squibler.io/) - Book writing platform with AI drafting, outlines, and chapter organization for fiction and nonfiction.
 - [Sudowrite](https://www.sudowrite.com/) - AI prose suite with brainstorming, rewriting, and describe tools that also work for creative nonfiction scenes.
 - [Memoirji](https://www.memoirji.com/) - Chat-based AI memoir writer on WhatsApp that turns your answers into a PDF life story.
+- [Narravita](https://narravita.app/) - Android memory archive with optional cloud AI for organizing voice, text, and photos into editable life-story chapters, with originals preserved.
 
 ## Guided Life Story Services
 
