@@ -87,6 +87,7 @@ Revising a full draft, or reshaping a memoir you have already written.
 - [Hemingway Editor](https://hemingwayapp.com/) - Readability checker that flags dense sentences and passive voice.
 - [Grammarly](https://www.grammarly.com/) - Grammar, tone, and clarity suggestions.
 - [AutoCrit](https://www.autocrit.com/) - Manuscript critique with analysis of pacing, dialogue, and word choice.
+- [Revise AI](https://www.revise.net/) - AI line editor that shows grammar, clarity, and style suggestions as tracked changes the author accepts or rejects, so a memoir keeps the writer's voice.
 
 ## Formatting and Export
 
