@@ -8,3 +8,5 @@ Thanks for helping improve this list.
 - Format: `- [Name](https://link) - Description.`
 - Please explain in the pull request what the tool does and why it fits.
 - No affiliate or tracking links.
+
+If this list is useful to you, a star helps other writers find it.
