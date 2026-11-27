@@ -82,7 +82,7 @@ Choosing a period, question, or relationship and arranging scenes around it.
 
 Revising a full draft, or reshaping a memoir you have already written.
 
-- ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - Manuscript Rewrite that takes an existing Word, Markdown, text, or HTML draft and restructures, retones, translates, or expands it while leaving the original untouched.
+- ⭐ [ImagineYourBook](https://www.imagineyourbook.com/#manuscript-rewrite) - Manuscript Rewrite that takes an existing Word, Markdown, text, or HTML draft and restructures, retones, translates, or expands it while leaving the original untouched.
 - ⭐ [ProWritingAid](https://prowritingaid.com/) - Style and manuscript reports for repetition, pacing, and consistency.
 - [Hemingway Editor](https://hemingwayapp.com/) - Readability checker that flags dense sentences and passive voice.
 - [Grammarly](https://www.grammarly.com/) - Grammar, tone, and clarity suggestions.
@@ -92,7 +92,7 @@ Revising a full draft, or reshaping a memoir you have already written.
 
 Turning the manuscript into files for readers, printers, and ebook stores.
 
-- ⭐ [ImagineYourBook](https://www.imagineyourbook.com/) - Downloads of the finished memoir as Word, EPUB, and Markdown.
+- ⭐ [ImagineYourBook](https://www.imagineyourbook.com/#author-pack) - Downloads of the finished memoir as Word, EPUB, and Markdown.
 - [Atticus](https://www.atticus.io/) - Cross-platform book formatter for ebook and print interiors.
 - [Vellum](https://vellum.pub/) - Mac book formatting software with polished interior styles.
 - [Reedsy Studio](https://reedsy.com/studio) - Free writing and formatting studio with EPUB and print-ready PDF export.
